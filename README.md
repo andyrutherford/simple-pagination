@@ -29,7 +29,7 @@ $ npm run start
 
 ## Demo
 
-Here is a working live demo:
+Here is a working live demo: https://simple-pagination.netlify.app/
 
 ## License
 
